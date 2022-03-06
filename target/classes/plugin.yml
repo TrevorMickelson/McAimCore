@@ -1,0 +1,5 @@
+name: McAimCore
+author: CodePunisher
+version: 1.0
+main: com.mcaim.core.CorePlugin
+api-version: 1.17
